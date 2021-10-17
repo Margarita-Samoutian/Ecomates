@@ -32,78 +32,92 @@
 
 Οι μαθητές εξερεύνησαν την αυλή του σχολείου ανακαλύπτοντας μυρμηγκοφωλιές και αποφάσισαν να προτείνουν ως ήρωα ένα μυρμήγκι που το ονόμασαν Εντ, από το ρομποτάκι Edison. Στη συνέχεια, το κατασκεύασαν χρησιμοποιώντας LEGΟ και συνδέοντάς τα κομμάτια με τις υποδοχές του εξοπλισμού.
 
-
-
+![image](https://github.com/Margarita-Samoutian/Ecomates/blob/main/Ants.jpg)
+![image](https://github.com/Margarita-Samoutian/Ecomates/blob/main/%CE%9A%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE%20%CE%95%CE%BD%CF%84.jpg)
 
 Η πρώτη πρόκληση που έδωσε στην ομάδα ο Εντ ήταν η αναγνώριση των δέντρων που υπάρχουν στην αυλή. Οι μαθητές ανίχνευσαν τα δέντρα και δημιούργησαν τις δικές τους αφίσες.
 
+![image](https://github.com/Margarita-Samoutian/Ecomates/blob/main/%CE%91%CE%BD%CE%B1%CE%BA%CE%AC%CE%BB%CF%85%CF%88%CE%B7%20%CE%B4%CE%AD%CE%BD%CF%84%CF%81%CF%89%CE%BD%20%CE%B1%CF%85%CE%BB%CE%AE%CF%82.jpg)
+![image](https://github.com/Margarita-Samoutian/Ecomates/blob/main/%CE%94%CE%AD%CE%BD%CF%84%CF%81%CE%B1%20%CE%B1%CF%85%CE%BB%CE%AE%CF%82%20%CE%B1%CF%86%CE%AF%CF%83%CE%B1.jpg)
+![image](https://github.com/Margarita-Samoutian/Ecomates/blob/main/%CE%94%CE%AD%CE%BD%CF%84%CF%81%CE%B1%20%CE%B1%CF%85%CE%BB%CE%AE%CF%82.jpg)
+
 Η δεύτερη πρόκληση του Εντ αφορούσε την ανάγνωση ενός παιδικού βιβλίου ("Ο μαγικός κόσμος των δέντρων") που έδινε σημαντικές πληροφορίες για τον κύκλο ζωής των δέντρων, αλλά και τα χαρακτηριστικά τους. Το μυρμήγκι πρότεινε στα νήπια να μάθουν τον τρόπο που μπορούν να βρουν χρήσιμες λεπτομέρειες για τη ζωή και τις απειλές ενός δέντρου. Έτσι, οι μικροί εξερευνητές επέστρεψαν στην αυλή και επεξεργάστηκαν τους κορμούς των δέντρων.
+
+![image](https://github.com/Margarita-Samoutian/Ecomates/blob/main/%CE%9F%20%CE%BC%CE%B1%CE%B3%CE%B9%CE%BA%CF%8C%CF%82%20%CE%BA%CF%8C%CF%83%CE%BC%CE%BF%CF%82%20%CF%84%CF%89%CE%BD%20%CE%B4%CE%AD%CE%BD%CF%84%CF%81%CF%89%CE%BD.jpg)
+![image](https://github.com/Margarita-Samoutian/Ecomates/blob/main/%CE%9A%CE%BF%CF%81%CE%BC%CE%BF%CE%AF%20%CE%B4%CE%AD%CE%BD%CF%84%CF%81%CF%89%CE%BD%202.jpg)
+![image](https://github.com/Margarita-Samoutian/Ecomates/blob/main/%CE%9A%CE%BF%CF%81%CE%BC%CE%BF%CE%AF%20%CE%B4%CE%AD%CE%BD%CF%84%CF%81%CF%89%CE%BD.jpg)
 
 Από τα αποτελέσματα της έρευνάς τους διαπίστωσαν ότι οι δακτύλιοι σε έναν κορμό κρύβουν σημαντικές λεπτομέρειες για το κάθε δέντρο.
 
-Επεξεργασία κορμών δέντρων
+![image](https://github.com/Margarita-Samoutian/Ecomates/blob/main/%CE%94%CE%B1%CE%BA%CF%84%CF%8D%CE%BB%CE%B9%CE%BF%CE%B9.jpg)
+![image](https://github.com/Margarita-Samoutian/Ecomates/blob/main/%CE%A0%CE%BB%CE%B7%CF%81%CE%BF%CF%86%CE%BF%CF%81%CE%AF%CE%B5%CF%82%20%CE%BA%CE%BF%CF%81%CE%BC%CF%8E%CE%BD.jpg)
+![image](https://github.com/Margarita-Samoutian/Ecomates/blob/main/%CE%94%CE%B1%CE%BA%CF%84%CF%8D%CE%BB%CE%B9%CE%BF%CE%B9%20%CE%BA%CE%BF%CF%81%CE%BC%CE%BF%CF%8D%20%CE%B1%CE%BD%CE%B1%CF%80%CE%B1%CF%81%CE%AC%CF%83%CF%84%CE%B1%CF%83%CE%B7.jpg)
+![image](https://github.com/Margarita-Samoutian/Ecomates/blob/main/%CE%95%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1%20%CE%BA%CE%BF%CF%81%CE%BC%CE%BF%CE%AF%20%CE%B4%CE%AD%CE%BD%CF%84%CF%81%CF%89%CE%BD.jpg)
+![image](https://github.com/Margarita-Samoutian/Ecomates/blob/main/%CE%97%CE%BB%CE%B9%CE%BA%CE%AF%CE%B1%20%CE%B4%CE%AD%CE%BD%CF%84%CF%81%CF%89%CE%BD.jpg)
 
-
+https://www.youtube.com/watch?v=De0theDsDCk
 
 
 Δεύτερο στάδιο:
 
 Μετά την αρχική συλλογή πληροφοριών, οι μαθητές ξεκίνησαν να δημιουργούν την μακέτα της δράσης την οποία εμπλούτισαν με κατασκευές από άχρηστο υλικό, αλλά και LEGO.
 
+![image](https://github.com/Margarita-Samoutian/Ecomates/blob/main/%CE%9C%CE%B1%CE%BA%CE%AD%CF%84%CE%B1.jpg)
+![image](https://github.com/Margarita-Samoutian/Ecomates/blob/main/%CE%9A%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE%20%CE%B4%CE%AD%CE%BD%CF%84%CF%81%CF%89%CE%BD.jpg)
+![image](https://github.com/Margarita-Samoutian/Ecomates/blob/main/%CE%95%CE%BC%CF%80%CE%BB%CE%BF%CF%85%CF%84%CE%B9%CF%83%CE%BC%CF%8C%CF%82%20%CE%BC%CE%B1%CE%BA%CE%AD%CF%84%CE%B1%CF%82.jpg)
+
 Ο Εντ έδωσε νέα αποστολή στην ομάδα να αναπαραστήσουν την αυλή του σχολείου τοποθετώντας στα σωστά σημεία της μακέτας τα αντικείμενα.
 
-Κατασκευή μακέτας
-
-
+https://www.youtube.com/watch?v=40DIkz9FlsM
 
 
 Τρίτο στάδιο:
 
 Οι μαθητές δημιούργησαν βίντεο για κάθε δέντρο της αυλής τους, το οποίο μετατράπηκε σε κώδικα QR και τοποθετήθηκε δίπλα στο ομοίωμά του στο χάρτη.
 
-Ελιά
+https://www.youtube.com/watch?v=X2faDXInxk4
 
-Αμυγδαλιά
+https://www.youtube.com/watch?v=NJ3x6yAgDhU
 
-Καλλιστήμονας
+https://www.youtube.com/watch?v=6aDd9jWfsyk
 
-Ακακία
+https://www.youtube.com/watch?v=8wRL9Z3js4E
 
-Μουσμουλιά
+https://www.youtube.com/watch?v=T0d3gymkMUw
 
-Λιγούστρο
+https://www.youtube.com/watch?v=wKD5jcyTa-Y
 
-Πλάτανος
+https://www.youtube.com/watch?v=hj18Xen89KM
 
-Κυπαρίσσι
+https://www.youtube.com/watch?v=NgZTdOg3umU
 
 Ακολούθως, δημιουργήθηκε ο κώδικας της δράσης με βάση τις πληροφορίες που έδιναν τα δέντρα.
 
-Αλγόριθμος- QR κώδικες
-
-
+https://www.youtube.com/watch?v=IoxG47WsY-8
 
 
 Τέταρτο στάδιο:
 
 Για την ανατροφοδότηση των γνώσεων που είχαν αποκτήσει τα νήπια έως αυτό το σημείο δημιουργήθηκε ένα Escape Room με στόχο να αποκτήσουν ένα κλειδί (κύκλοι με διαφορετικά χρώματα), προκειμένου να κωδικοποιήσουν τις κινήσεις που είχαν τοποθετήσει στη μακέτα. Ο Εντ προκάλεσε τους μαθητές να παίξουν το παιχνίδι για να ανακαλύψουν το μυστικό για το επόμενο στάδιο.
 
-Ο Εντ και η μυστική γλώσσα των δέντρων Escape Room
+https://view.genial.ly/60c922c6c846ca0dd68b02f5/interactive-content-o-ent-kai-h-mystikh-glwssa-twn-dentrwn
 
-Κωδικοποίηση και αποκωδικοποίηση κινήσεων
+![image](https://github.com/Margarita-Samoutian/Ecomates/blob/main/Escape%20room.jpg)
 
-
+https://www.youtube.com/watch?v=H8fpM6tLnLY
 
 
 Πέμπτο στάδιο:
 
 Στο τελευταίο στάδιο, οι μαθητές προγραμμάτισαν το ρομπότ χρησιμοποιώντας τα τάμπλετ και το φορητό υπολογιστή του σχολείου. Ο Εντ αρχικά ακολούθησε τη διαδρομή του τρίτου σταδίου, η οποία εμπλουτίστηκε και με τις απειλές που θέτουν τα δέντρα σε κίνδυνο. Στόχος τους ήταν να προτείνουν λύσεις στο μυρμήγκι, ώστε να προστατέψουν τα δέντρα της αυλής και να βρουν τα σποράκια της ζωής.
 
-Ο Εντ και τα σποράκια της ζωής
+![image](https://github.com/Margarita-Samoutian/Ecomates/blob/main/%CE%A0%CF%81%CE%BF%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%B1%CF%84%CE%B9%CF%83%CE%BC%CF%8C%CF%82.jpg)
 
-
+https://youtu.be/_UBYQG3L3p0
 
 
 ΕΠΙΛΟΓΟΣ
 
 Η ομάδα "Ecomates" είχε την ευκαιρία να δημιουργήσει τις δικές της δεντρο-ιστορίες περιλαμβάνοντας λεπτομέρειες που συγκεντρώθηκαν από την έρευνα πεδίου, αλλά και από την ανάγνωση βιβλίων. Οι μικροί εξερευνητές ανακάλυψαν πληροφορίες στους δακτύλιους των κορμών και αναπαράστησαν στη μακέτα που δημιουργήθηκε την αυλή του σχολείου. Έπειτα, δημιούργησαν το δικό τους αλγόριθμο και κωδικοποίησαν τις κινήσεις τους με βάση ένα ψηφιακό παιχνίδι που είχε σαν στόχο να τους παρέχει ένα κλειδί για το επόμενο στάδιο. Μετά την αποκωδικοποίηση, ακολούθησε ο προγραμματισμός του ρομπότ προκειμένου να ξεπεράσει τα εμπόδια που υπήρχαν στη διαδρομή, προτείνοντας λύσεις. Η ομάδα κατάφερε να βρει "Τα σποράκια της ζωής" αξιοποιώντας όλες τις γνώσεις και τις δεξιότητες που καλλιεργήθηκαν μέσα από αυτή τη δράση, λαμβάνοντας το βραβείο του "ενεργού πολίτη και προστάτη της Γης".
+
+![image](https://github.com/Margarita-Samoutian/Ecomates/blob/main/Ecomates.jpg)
